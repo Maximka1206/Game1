@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 363.19995
     height: 730.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -935,9 +935,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1090.6268, y: 278.42682, z: -1644.5295}
+    m_Target: {x: 171.50488, y: -483.41455, z: -2400.2495}
     speed: 2
-    m_Value: {x: 1090.6268, y: 278.42682, z: -1644.5295}
+    m_Value: {x: 171.50488, y: -483.41455, z: -2400.2495}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 7
@@ -983,13 +983,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3201015, y: -0.31231773, z: 0.11260823, w: -0.88733184}
+    m_Target: {x: -0.2370991, y: -0.58319366, z: 0.18304373, w: -0.75512344}
     speed: 2
-    m_Value: {x: -0.32009417, y: -0.31231058, z: 0.11260565, w: -0.8873115}
+    m_Value: {x: 0.2370991, y: 0.58319366, z: -0.18304372, w: 0.75512344}
   m_Size:
-    m_Target: 1851.4574
+    m_Target: 2846.2625
     speed: 2
-    m_Value: 1851.4574
+    m_Value: 2846.2625
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1092,7 +1092,7 @@ MonoBehaviour:
       y: 21
       width: 997.2001
       height: 533.2
-    m_Scale: {x: 0.99999994, y: 0.9999999}
+    m_Scale: {x: 0.99999994, y: 0.99999994}
     m_Translation: {x: 498.60004, y: 266.6}
     m_MarginLeft: 0
     m_MarginRight: 0
